@@ -1,0 +1,22 @@
+/* public/styles.css */
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background: #f5f5f5;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: blue;
+}
+
+form input {
+  margin: 0.5rem 0;
+  display: block;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+}
